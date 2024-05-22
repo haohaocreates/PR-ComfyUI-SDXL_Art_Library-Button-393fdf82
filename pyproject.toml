@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-sdxl_art_library-button"
-description = ""
+description = "常用艺术库 按钮 双语版"
 version = "1.0.0"
 license = "LICENSE"
 
